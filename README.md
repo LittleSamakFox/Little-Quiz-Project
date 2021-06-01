@@ -1,7 +1,11 @@
-# littlequiz
-i have no copyright of image.
-this is just result of php internet programming lecture in csuos 
+# Little - Quiz - Project
 
+http://projectfox.dothome.co.kr/
+
+
+PHP로 제작
+
+본 프로젝트에 사용된 이미지의 저작권은 닌텐도에 있습니다.
 
 # PHP
 //메인
